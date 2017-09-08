@@ -7,6 +7,9 @@ HaskellWorks Kafka ecosystem includes:
 
 - [hw-kafka-conduit](https://github.com/haskell-works/hw-kafka-conduit)
   [Conduit](https://github.com/snoyberg/conduit) bindings for `hw-kafka-client`
+  
+- [pipes-kafka](https://github.com/boothead/pipes-kafka)
+  [Pipes](https://hackage.haskell.org/package/pipes) bindings for `hw-kafka-client`
 
 - [hw-haskell-avro](https://github.com/haskell-works/hw-haskell-avro)
   Avro serialisation/deserialisation (forked from https://github.com/GaloisInc/avro)
