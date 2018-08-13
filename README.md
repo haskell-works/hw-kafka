@@ -11,9 +11,6 @@ HaskellWorks Kafka ecosystem includes:
 - [pipes-kafka](https://github.com/boothead/pipes-kafka)
   [Pipes](https://hackage.haskell.org/package/pipes) bindings for `hw-kafka-client`
 
-- [hw-haskell-avro](https://github.com/haskell-works/hw-haskell-avro)
-  Avro serialisation/deserialisation (forked from https://github.com/GaloisInc/avro)
-
 - [hw-kafka-avro](https://github.com/haskell-works/hw-kafka-avro)
   Kafka-oriented Avro encoder/decoder that supports Schema Registry compatibly to
   the "original" [Confluent](https://www.confluent.io/) Kafka Avro serialiser.
